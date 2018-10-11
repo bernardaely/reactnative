@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "tararam12.app"
-               BlueprintName = "tararam12"
-               ReferencedContainer = "container:tararam12.xcodeproj">
+               BuildableName = "HaiHai29.app"
+               BlueprintName = "HaiHai29"
+               ReferencedContainer = "container:HaiHai29.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "tararam12Tests.xctest"
-               BlueprintName = "tararam12Tests"
-               ReferencedContainer = "container:tararam12.xcodeproj">
+               BuildableName = "HaiHai29Tests.xctest"
+               BlueprintName = "HaiHai29Tests"
+               ReferencedContainer = "container:HaiHai29.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "tararam12Tests.xctest"
-               BlueprintName = "tararam12Tests"
-               ReferencedContainer = "container:tararam12.xcodeproj">
+               BuildableName = "HaiHai29Tests.xctest"
+               BlueprintName = "HaiHai29Tests"
+               ReferencedContainer = "container:HaiHai29.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "tararam12.app"
-            BlueprintName = "tararam12"
-            ReferencedContainer = "container:tararam12.xcodeproj">
+            BuildableName = "HaiHai29.app"
+            BlueprintName = "HaiHai29"
+            ReferencedContainer = "container:HaiHai29.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "tararam12.app"
-            BlueprintName = "tararam12"
-            ReferencedContainer = "container:tararam12.xcodeproj">
+            BuildableName = "HaiHai29.app"
+            BlueprintName = "HaiHai29"
+            ReferencedContainer = "container:HaiHai29.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "tararam12.app"
-            BlueprintName = "tararam12"
-            ReferencedContainer = "container:tararam12.xcodeproj">
+            BuildableName = "HaiHai29.app"
+            BlueprintName = "HaiHai29"
+            ReferencedContainer = "container:HaiHai29.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

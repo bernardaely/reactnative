@@ -1,49 +1,41 @@
 import React, {Component} from 'react';
-import {View, StyleSheet,Text,Image} from 'react-native';
+import {Platform, StyleSheet, Text, View,Image} from 'react-native';
 import Judul from './Components/Judul';
-export default class App extends Component{
-  render(){
-    return(
-      <View style={styles.bg}>
-          <Judul/>
-          <Image style={styles.gambar}
-           source = {require('./content/mevector.jpg')}/>
-          <Text style={styles.tulisan_1}> Nama   = Bernardus Jupiter Krozeo Daely</Text>
-          <Text style={styles.tulisan_1}> No     = 12</Text>
-          <Text style={styles.tulisan_1}> Kelas  = XI RPL 2</Text>
+
+export default class App extends Component {
+  render() {
+    return (
+      <View style={styles.container}>
+      <Judul title="BIODATA"/>
+      <Judul title="LOGIN"/>
+      <Judul title="SMK TELKOM "/>
+        <Text style={styles.welcome}>Hello World :D</Text>
+        <Image style={{height:250,width:400}} source={require('./XXVll.jpg')}/>
+        <Text style={styles.instructions}>Nama  : Bernardaely</Text>
+        <Text style={styles.instructions}>No       : 12</Text>
+        <Text style={styles.instructions}>Kelas   : XI RPL 2</Text>
       </View>
-
-
-    )
+    );
   }
 }
+
 const styles = StyleSheet.create({
-  bg:{
+  container: {
     flex: 1,
-    backgroundColor: 'white',
-
+    backgroundColor: '#000',
   },
-  tulisan_1:{
-    alignItems: 'center',
+  welcome: {
+    fontSize: 20,
     textAlign: 'center',
-    fontSize: 25,
+    marginTop:5,
+    marginBottom : 5,
+    color: '#0f0',
   },
-  gambar:{
-    alignItems: 'center',
-    justifyContent: 'center',
-    left: 140,
-    marginTop: 80,
-    marginBottom: 90,
-    width: 100,
-    height: 100,
-  }
-
-
+  instructions: {
+    fontSize:15,
+    textAlign: 'left',
+    marginTop: 10,
+    marginBottom: 5,
+    color: '#0f0',
+  },
 });
-
-
-
-
-
-
-
